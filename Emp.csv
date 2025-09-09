@@ -1,0 +1,49 @@
+Emp_ID,Name,Age,Salary(INR) ,Experience (Years),City,Department,Performance Rating
+101,Saleem khan,26,650000,4,Delhi,IT,4.5
+102,Hasan khan,19,NaN,6,Mumbai,HR,6.2
+103,Shakoor shaikh,32,654210,2,Kolkata,Finance,5.4
+104,sajid ali,22,524102,5,Jaipur,Sales,3.5
+105,suleman anasari,25,6451455,4,Banglore,Management,3.1
+106,jalal farooqi,24,854210,1,Hydrabad,IT,NaN
+107,Farooq Mirza,26,inf,3,Delhi,HR,5.8
+108,Samera Yasmeen,22,158520,6,Mumbai,Finance,5.1
+109,Sanjida Sayyad,21,96521,7,Kolkata,Sales,5.7
+110,Sameel Sakeen,20,32569,4,Jaipur,Management,6.4
+111,Anil Rathod,23,NaN,6,Banglore,IT,8.1
+112,Sakeel Sayyad,28,854210,2,Hydrabad,HR,6.4
+113,Sumaila Bano,32,inf,5,Delhi,Finance,2.7
+114,Saleem khan,26,650000,6,Delhi,IT,5.6
+115,Hasan khan,25,NaN,9,Mumbai,HR,5.7
+116,Shakoor shaikh,44,3752832.5,6,Kolkata,Finance,5.7
+117,sajid ali,22,4405567.8,3,Jaipur,Sales,5.8
+118,suleman anasari,31,5058303.1,4,Banglore,Management,5.8
+119,jalal farooqi,34,5711038.4,6,Hydrabad,IT,5.8
+120,Farooq Mirza,26,inf,2,Delhi,HR,5.9
+121,Samera Yasmeen,25,-30081,2,Mumbai,Finance,5.9
+122,Sanjida Sayyad,28,-93056.5,4,Kolkata,Sales,6
+123,Sameel Sakeen,22,-156032,5,Jaipur,Management,6
+124,Anil Rathod,20,NaN,6,Banglore,IT,6.1
+125,Sakeel Sayyad,19,854210,3,Hydrabad,HR,6.1
+126,Sumaila Bano,27,inf,4,Delhi,Finance,6.1
+127,,26,,5,,,6.2
+128,Saleem khan,29,650000,4,Delhi,IT,6.2
+129,Hasan khan,23,NaN,6,Mumbai,HR,6.3
+130,Shakoor shaikh,41,6363773.7,4,Kolkata,Finance,6.3
+131,sajid ali,22,7016509,4,Jaipur,Sales,6.3
+132,suleman anasari,26,7669244.3,1,Banglore,Management,6.4
+133,jalal farooqi,34,8321979.6,2,Hydrabad,IT,6.4
+134,Farooq Mirza,38,inf,1,Delhi,HR,6.5
+135,Samera Yasmeen,33,219007.5,5,Mumbai,Finance,6.5
+136,Sanjida Sayyad,29,281983,6,Kolkata,Sales,6.6
+137,Sameel Sakeen,24,344958.5,7,Jaipur,Management,6.6
+138,Anil Rathod,37,NaN,3,Banglore,IT,NaN
+139,Sakeel Sayyad,34,854210,2,Hydrabad,HR,6.7
+140,Sumaila Bano,31,inf,3,Delhi,Finance,6.7
+141,,41,,1,,,6.8
+142,Saleem khan,33,650000,8,Delhi,IT,6.8
+143,Hasan khan,22,NaN,5,Mumbai,HR,6.9
+144,Shakoor shaikh,31,8974714,2,Kolkata,Finance,6.9
+145,sajid ali,36,9627450,4,Jaipur,Sales,6.9
+146,suleman anasari,35,555412,6,Banglore,Management,7
+147,jalal farooqi,32,109329,9,Hydrabad,IT,7
+148,,,,,,,
